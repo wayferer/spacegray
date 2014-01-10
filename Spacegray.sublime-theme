@@ -651,9 +651,10 @@
     {
         "class": "text_line_control",
         // "layer0.texture": "",
+        "layer0.inner_margin": [0,0],
         "layer0.tint": [28, 31, 38], // -01
         "layer0.opacity": 1,
-        "content_margin": 6
+        "content_margin": [5,5,5,0]
     },
 
 //
@@ -666,8 +667,8 @@
         // "layer0.texture": "",
         "layer0.inner_margin": [0,0],
         "layer0.opacity": 1,
-        "layer0.tint": [28, 31, 38], // -00
-        "content_margin": 0
+        "layer0.tint": [45, 45, 45], // -00
+        "content_margin": [0,0,0,4]
     },
     // Quick panel background
     {
